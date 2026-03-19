@@ -9,6 +9,6 @@ In a personal portfolio, you can showcase a wide range of your samples and skill
 
 ## techologies Used:html,css,javascript
 
-## Demo video:https://drive.google.com/file/d/1DMpIyPMnR-ClV-Th6CCUb4m8uPFcY0xz/view?usp=drive_link
+## Demo video : https://drive.google.com/file/d/1kJukNQAvJoDlciuk0YGk4YbZtXeRZjin/view?usp=drive_link
 
 
